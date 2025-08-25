@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.hackerrank.com/profile/gayantha8631" target="new"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_dishan" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/dishan-gayantha-73a59b199" target="new"><img align="center" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="lin_dishan" height="40" width="40" /></a>
-<a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_dishan" height="30" width="40" /></a>
+ <a href = "mailto: gayantha8631@gmail.com"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" height="40" width="40" /></a>
 </p>
 </p>
 
