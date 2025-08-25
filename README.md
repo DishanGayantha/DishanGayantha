@@ -45,36 +45,36 @@ Here are some ideas to get you started:
 
   </em> 
   <br>
-    <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> 
+       <b>Thought : <i>"Life is full of choices…choose wisely!”</i></b> 
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">About me ....
 
-</> Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-</> I’m currently learning about Springboot /Spring/ Cloud🥰<br>
-</> I’m looking to collaborate with any **Open - Source software development projects**<br>
-</> Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+🗣️  Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+👨‍💻  I’m currently learning about Springboot /Spring/ Cloud Infrastructure & Services🥰<br>
+🤝  I’m looking to collaborate with any **Open - Source software development projects**<br>
+🤓  Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools and Technologies i work with...***
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Tools and Technologies I work with:
+
 <p align="left">
   
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
-
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
+  <code> <img height="60" src="./spring-boot.png"> </code>
+  <code> <img height="50" src="./HTML5.png"> </code>
+  <code> <img height="50" src="./CSS3.png"> </code>
+  <code> <img height="50" src="./JavaScript.png"> </code>
+  <code> <img height="50" src="./Tailwind CSS.png"> </code>
+  <code> <img height="50" src="./React.png"> </code>
+  <code> <img height="50" src="./Express.png"> </code>
+  <code> <img height="50" src="./Node.js (1).png"> </code>
+  <code> <img height="50" src="./MongoDB (1).png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
- 
-  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
-
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
-  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
-
+  <code> <img height="50" src="./Git.png"> </code>
+  <code> <img height="50" src="./AWS.png"> </code>
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
